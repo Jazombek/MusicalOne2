@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musical One</string>
+
+    <string name="title_activity_main_item_list">MainItemList</string>
+    <string name="none">None</string>
+    <string name="inorder">In order</string>
+    <string name="random">Random</string>
+    <string-array name="settings">
+        <item>@string/none</item>
+        <item>@string/inorder</item>
+        <item>@string/random</item>
+
+    </string-array>
+    <string name="author_desc">To jest teks opisujący autora. Nauczył się on teraz grać magiczne solówki na swoim instrumencie, to znaczy na telefonie z androidem.</string>
+</resources>
